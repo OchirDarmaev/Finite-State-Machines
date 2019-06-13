@@ -1,2 +1,7 @@
-# Finite-State-Machines
-Implementation of the algorithm in the C#.  https://tproger.ru/translations/finite-state-machines-theory-and-implementation/
+# Ant is finding the eat
+
+![](demo.gif)
+
+Inspired by [Coding Train](https://github.com/CodingTrain/Rainbow-Code/tree/master/CodingChallenges/CC_03_Snake_game_p5.js)
+
+
